@@ -20,9 +20,9 @@ const Index = () => {
             About Us
           </h2>
           <p className="mt-6 text-muted-foreground leading-relaxed">
-            AlbaBridge Tech SH.P.K. is a software and technology services company based in Prishtina, Kosovo. 
-            We specialize in developing innovative digital solutions for businesses worldwide. 
-            Our team is dedicated to delivering high-quality software that meets the evolving needs of our clients.
+            AlbaBridge Tech SH.P.K. is a software and technology company based in Prishtina, Kosovo. 
+            We specialize in developing educational apps that make learning accessible and engaging. 
+            Our team is dedicated to creating innovative digital solutions that empower learners worldwide.
           </p>
         </div>
       </section>
@@ -35,18 +35,18 @@ const Index = () => {
           </h2>
           <div className="mt-10 flex flex-col items-center gap-6 md:flex-row md:justify-center md:gap-12">
             <a 
-              href="mailto:contact@example.com" 
+              href="mailto:dev@albabridgetech.com" 
               className="flex items-center gap-3 text-muted-foreground hover:text-accent-blue transition-colors"
             >
               <Mail className="h-5 w-5 text-accent-blue" />
-              <span>contact@example.com</span>
+              <span>dev@albabridgetech.com</span>
             </a>
             <a 
-              href="tel:+383XXXXXXXX" 
+              href="tel:+38349200028" 
               className="flex items-center gap-3 text-muted-foreground hover:text-accent-blue transition-colors"
             >
               <Phone className="h-5 w-5 text-accent-blue" />
-              <span>+383 XX XXX XXX</span>
+              <span>+383 49 200 028</span>
             </a>
             <div className="flex items-center gap-3 text-muted-foreground">
               <MapPin className="h-5 w-5 text-accent-blue" />
